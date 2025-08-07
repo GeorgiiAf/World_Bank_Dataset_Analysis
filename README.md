@@ -5,7 +5,8 @@
 
 This project is a data analysis exercise using **pandas**, **matplotlib/seaborn**, and **scikit-learn**.
 
-We analyze simulated economic, social, and environmental indicators for 20 countries over the period 2010–2019. The objective is to explore data patterns, visualize key metrics, and attempt a basic prediction model for CO₂ emissions.
+We analyze simulated economic, social, and environmental indicators for 20 countries over the period 2010–2019. The main goal is to get hands-on practice with **pandas** and other essential tools for data analysis, explore data patterns, visualize key metrics, and attempt a basic prediction model for CO₂ emissions.
+
 
 ---
 
