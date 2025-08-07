@@ -3,7 +3,7 @@
 
 ## 📊 Project Overview
 
-This project is a beginner-level data analysis exercise using **pandas**, **matplotlib/seaborn**, and **scikit-learn**.
+This project is a data analysis exercise using **pandas**, **matplotlib/seaborn**, and **scikit-learn**.
 
 We analyze simulated economic, social, and environmental indicators for 20 countries over the period 2010–2019. The objective is to explore data patterns, visualize key metrics, and attempt a basic prediction model for CO₂ emissions.
 
@@ -21,6 +21,8 @@ We analyze simulated economic, social, and environmental indicators for 20 count
 - `CO₂ Emissions (metric tons per capita)`
 - `Access to Electricity (%)`
 
+[the dataset](https://www.kaggle.com/datasets/bhadramohit/world-bank-dataset/discussion/543598)
+
 ---
 
 ## 🔍 Analysis Workflow
@@ -31,8 +33,12 @@ We analyze simulated economic, social, and environmental indicators for 20 count
 
 ### 2. Visualizations
 - Line plots for **GDP** over time (India, US, Germany)
+- GDP comparison
 - Life expectancy trends
 - CO₂ emissions comparison
+- Unemployment Rate (%) comparison
+-  Mean Life Expectancy by Country
+-  Scatterplot: GDP vs CO2
 - **Correlation heatmap** of numerical features
 
 ### 3. Machine Learning (Simple Linear Regression)
@@ -89,5 +95,4 @@ project/
 ## ✅ Next Steps
 
 - Try additional visualizations (bar plots, box plots, facet grids)
-- Experiment with more ML models
-- Add a dashboard (optional with Power BI or Plotly Dash)
+- Add a dashboard  with Power BI 
